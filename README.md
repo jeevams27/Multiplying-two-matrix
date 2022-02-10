@@ -22,6 +22,8 @@ Display the result.
 
 ## PROGRAM: 
 Developed by :M.S.JEEVA
+
+
 Reg no : 212221230040
 ```
 import numpy as np
